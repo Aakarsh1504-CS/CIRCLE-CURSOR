@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    cursor: none;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    cursor: none;
+}
+#rect{
+    position: absolute;
+    top: 50%;
+    mix-blend-mode: difference;
+    left: 50%;
+    z-index: 9;
+    transform: translate(-50%,-50%);
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    /* border: 1px solid red; */
+    background-color: palevioletred;
+}
+.pink{
+    width: 200px;
+    height:200px;
+    margin: 50px;
+    background-color:palevioletred;
+}
