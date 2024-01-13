@@ -33,4 +33,4 @@ Thank You Sheriyans Coding School for your guidance for this project.
 
 ## Let's Connect
 
-If you have any questions, feedback, or ideas for improvement, feel free to reach out! Connect with me on [https://www.linkedin.com/in/aakarsh-arora-b3965822b/] and let's have a conversation.
+If you have any questions, feedback, or ideas for improvement, feel free to reach out! Connect with me on [LinkedIn](https://www.linkedin.com/in/aakarsh-arora-b3965822b/) and let's have a conversation.
